@@ -8,7 +8,7 @@ public record RequestProduct(
 
         @NotBlank
         String name,
-
+/*teste*/
         @NotNull
         Integer price_in_cents) {
 }
